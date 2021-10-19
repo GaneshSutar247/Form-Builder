@@ -1,0 +1,28 @@
+{
+  "EnquiryForm": [
+    {
+      "id": 1,
+      "cfirstname": "dd",
+      "cmiddlename": "ff",
+      "clastname": "r",
+      "Dcdob": "2021-10-25",
+      "cage": "5",
+      "cgender": "Male",
+      "cpanid": "f",
+      "cadharnumber": "f",
+      "cincomedetails": "55",
+      "cemail": "hy",
+      "cmobileno": "9373757435",
+      "caltmobileno": "678",
+      "creqamtloant": "7",
+      "cenquirydate": "566",
+      "goldschemename": "scheme1",
+      "cstatus": "f",
+      "chousedetails": "gf",
+      "cstreet": "pune karve nagar",
+      "city": "pune",
+      "cstate": "Maharashtra",
+      "cpincode": "411052"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+    {
+       "code":"Male",
+        "Value":"Male"
+    },
+    {
+        "code":"Female",
+         "Value":"Female"
+     },
+     {
+        "code":"Other",
+         "Value":"Other"
+     }
+
+
+
+]
